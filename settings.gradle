@@ -1,0 +1,1 @@
+include ':app', ':wikitude-unity-bridge'

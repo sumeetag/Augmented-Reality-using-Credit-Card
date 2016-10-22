@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="wikitude-unity-bridge-unspecified">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/WikitudeUnityExample3/wikitude-unity-bridge/unspecified/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/WikitudeUnityExample3/wikitude-unity-bridge/unspecified/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/WikitudeUnityExample3/wikitude-unity-bridge/unspecified/libs/wikitude-native-sdk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

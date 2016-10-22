@@ -1,0 +1,4 @@
+C:\sumeet\Icici project\rakshith\WikitudeUnityExample3\app\build\intermediates\classes\debug
+C:\sumeet\Icici project\rakshith\WikitudeUnityExample3\app\build\intermediates\pre-dexed\debug\classes-f0b8f382aa8e8f6bef67bba1cc9896ad0f5127b7.jar
+C:\sumeet\Icici project\rakshith\WikitudeUnityExample3\app\build\intermediates\pre-dexed\debug\wikitude-native-sdk-64b89e8717e3e0dc60655ec2d5ef1beb7898dcf9.jar
+C:\sumeet\Icici project\rakshith\WikitudeUnityExample3\app\build\intermediates\pre-dexed\debug\unity-classes-770bee95c7417f93520dee2adbdbdc2f1b65e643.jar

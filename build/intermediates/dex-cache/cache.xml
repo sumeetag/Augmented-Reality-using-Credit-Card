@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\sumeet\Icici project\rakshith\WikitudeUnityExample3\app\build\intermediates\exploded-aar\WikitudeUnityExample3\wikitude-unity-bridge\unspecified\libs\wikitude-native-sdk.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a885d0c2e29d9a297c728a39337f4e2cd7b5ba26">
+        <dex dex="C:\sumeet\Icici project\rakshith\WikitudeUnityExample3\app\build\intermediates\pre-dexed\debug\wikitude-native-sdk-64b89e8717e3e0dc60655ec2d5ef1beb7898dcf9.jar" />
+    </item>
+    <item
+        jar="C:\sumeet\Icici project\rakshith\WikitudeUnityExample3\app\libs\unity-classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c6947b513b4fbb7459362e1629cb24332929e588">
+        <dex dex="C:\sumeet\Icici project\rakshith\WikitudeUnityExample3\app\build\intermediates\pre-dexed\debug\unity-classes-770bee95c7417f93520dee2adbdbdc2f1b65e643.jar" />
+    </item>
+    <item
+        jar="C:\sumeet\Icici project\rakshith\WikitudeUnityExample3\app\build\intermediates\exploded-aar\WikitudeUnityExample3\wikitude-unity-bridge\unspecified\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="656a61a087d76cb7fafd281929b3915deecb82f5">
+        <dex dex="C:\sumeet\Icici project\rakshith\WikitudeUnityExample3\app\build\intermediates\pre-dexed\debug\classes-f0b8f382aa8e8f6bef67bba1cc9896ad0f5127b7.jar" />
+    </item>
+
+</items>

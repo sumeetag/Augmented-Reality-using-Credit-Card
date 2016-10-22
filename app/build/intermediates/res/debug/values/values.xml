@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/sumeet/Icici%20project/rakshith/WikitudeUnityExample3/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">WikitudeUnityExample</string>
+    <!-- From: file:/C:/sumeet/Icici%20project/rakshith/WikitudeUnityExample3/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="UnityThemeSelector" parent="android:Theme.Light.NoTitleBar.Fullscreen">
+</style>
+</resources>
